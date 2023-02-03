@@ -1,4 +1,4 @@
-### Hello World !
+### Hello World!
 
 I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 
