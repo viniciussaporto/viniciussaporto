@@ -1,6 +1,6 @@
 ### Hello World !
 
-I'm Vinícius, a student at [42 Porto](https://42.fr/en/homepage/).
+I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 
 
 <div align="center">
