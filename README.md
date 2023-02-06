@@ -25,32 +25,32 @@ I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 <a href="https://github.com/viniciussaporto/42porto/tree/master/get_next_line">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/viniciussaporto/42porto/tree/master/ft_printf">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/viniciussaporto/42porto/tree/master/Born2BeRoot">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/viniciussaporto/42porto/tree/master/newFdF">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/fdfe.png)</a>
-<!-- <a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
-<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
-<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
-<a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
-<a href="https://github.com/mcombeau/Cpp_Modules">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a> -->
+<a href="https://github.com/viniciussaporto/42porto/tree/master/FdF">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/fdfe.png)</a>
+<!-- <a href="https://github.com/viniciussaporto/pipex">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/viniciussaporto/push_swap">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/viniciussaporto/philosophers">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/viniciussaporto/minishell">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/viniciussaporto/net_practice">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://github.com/viniciussaporto/Cpp_Modules">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/cppe.png)</a> -->
 
 <!-- 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptionn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_ircn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/so_longn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/fdfn.png)</a> 
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/minitalkn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/cub3dn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/minirtn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/ft_containersn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/ft_servicesn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/inceptionn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/webservn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/ft_ircn.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/ft_transcendencen.png)</a>
+<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/common_coren.png)</a>
 -->
 
 <!-- </div>
 
-&#9656; [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
+&#9656; 
 
 --- -->
 
