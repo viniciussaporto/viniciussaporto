@@ -27,6 +27,7 @@ I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 <a href="https://github.com/viniciussaporto/42porto/tree/master/Born2BeRoot">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/born2beroote.png)</a>
 <a href="https://github.com/viniciussaporto/42porto/tree/master/FdF">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/fdfe.png)</a>
 <a href="https://github.com/viniciussaporto/42porto/tree/master/minitalk">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/minitalke.png)</a>
+<a href="https://github.com/viniciussaporto/42porto/tree/master/push_swap">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/push_swape.png)</a>
 <!-- <a href="https://github.com/viniciussaporto/push_swap">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/viniciussaporto/philosophers">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/viniciussaporto/minishell">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/minishelle.png)</a>
