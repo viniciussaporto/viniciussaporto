@@ -83,10 +83,6 @@ I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 <a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/common_coren.png)</a> -->
 
 </div>
-<!-- 
-&#9656; 
-
---- --> -->
 
 ### GitHub Stats
 
