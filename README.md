@@ -69,7 +69,7 @@ I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 <a href="https://github.com/viniciussaporto/net_practice">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/viniciussaporto/Cpp_Modules">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/cppe.png)</a>
 
-<a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/entrepeneurm.png)</a>
+<!-- <a href="https://github.com/viniciussaporto/ClimaBot">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/entrepeneurm.png)</a> -->
 <!-- <a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/fdfn.png)</a> 
 <a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/minitalkn.png)</a>
 <a href="">![42 Badge](https://github.com/viniciussaporto/viniciussaporto/blob/main/42_badges/cub3dn.png)</a>
