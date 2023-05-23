@@ -56,7 +56,7 @@ I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 ### Personal Projects
 <div align="center">
 
-<a href="https://github.com/viniciussaporto/ClimaBot">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/entrepeneurm.png)</a>
+<a href="https://github.com/viniciussaporto/ClimaBot">![ClimaBot - Discord bot for weather](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/entrepeneurm.png)</a>
 <!-- <a href="https://github.com/viniciussaporto/42porto/tree/master/get_next_line">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/viniciussaporto/42porto/tree/master/ft_printf">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/viniciussaporto/42porto/tree/master/Born2BeRoot">![42 Badge](https://github.com/viniciussaporto/vsa-port/blob/main/42_badges/born2beroote.png)</a>
