@@ -89,7 +89,7 @@ I'm Vinícius, a student at [42 Porto](https://www.42porto.com/).
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaporto&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![viniciussaporto's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussaporto&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussaporto&layout=compact&theme=tokyonight&hide_title=false&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)[![viniciussaporto's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussaporto&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
